@@ -45,6 +45,20 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+
+  ---
+
+## 📊 GitHub Stats
+
+![Shiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivenyadavs&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivenyadavs&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shivenyadavs&theme=radical&hide_border=true)
+
+---
+
+  
   <!---
 shivenyadavs/shivenyadavs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
